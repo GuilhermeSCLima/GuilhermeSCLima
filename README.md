@@ -7,7 +7,7 @@
 
 ### Salvee, Sejam bem vindos ao meu perfil do GitHub!
 <hr>
-Tenho 20 anos, moro em São Paulo, Brasil. E estou entrendo agora nessa area de programação. Estou estudano criações de BOTs para discord, desenvolvimento de Jogos pela Unity, e mais algumas ferramentas e linguages que direi a baixo.<br><br>
+Tenho 20 anos, moro em São Paulo, Brasil. E estou entrendo agora nessa area de programação. Estou estudano criações de BOTs para discord, desenvolvimento web, e mais algumas ferramentas e linguages que direi a baixo.<br><br>
 
 - 🌱 Estou aprendendo algumas linguagens novas <a href='#knownleadge' style='text-decoration: none;color: #7e51d6'>como</a>.
 - 🔭 Estou trabalhando apenas com projetos pessoais, mas estou em busca de um emprego na area.
