@@ -12,21 +12,21 @@ Tenho 20 anos, moro em São Paulo, Brasil. E estou entrendo agora nessa area de 
 - 🌱 Estou aprendendo algumas linguagens novas <a href='#knownleadge' style='text-decoration: none;color: #7e51d6'>como</a>.
 - 🔭 Estou trabalhando apenas com projetos pessoais, mas estou em busca de um emprego na area.
 - ❗ Este perfil, é novo, por isso ainda estou criando novos repositorios.
-- ‼️ Site em constução <a href='https://guilhermelima.dev' style='text-decoration: none;color: #7e51d6'>guilhermelima.dev</a>
+- ‼️ Site em constução: <a href='https://guilhermelima.dev' style='text-decoration: none;color: #7e51d6'>guilhermelima.dev</a>
 
 <h3 id='knownleadge'> Conhecimentos: <h3>
 
-<img src=''> <!--HTML-->
-<img src=''> <!--CSS-->
-<img src=''> <!--JS-->
-<img src=''> <!--NodeJs-->
-<img src=''> <!--Git-->
-<img src=''> <!--GitHub-->
-<img src=''> <!--Python-->
-<img src=''> <!--Unity-->
-<img src=''> <!--C#-->
-<img src=''> <!--MySQL-->
-<img src=''> <!--Lua-->
+<img src='./images/pgm/html.png'> <!--HTML-->
+<img src='./images/pgm/css.png'> <!--CSS-->
+<img src='./images/pgm/js.png'> <!--JS-->
+<img src='./images/pgm/nodejs.png'> <!--NodeJs-->
+<img src='./images/pgm/git.png'> <!--Git-->
+<img src='./images/pgm/github.png'> <!--GitHub-->
+<img src='./images/pgm/python.png'> <!--Python-->
+<img src='./images/pgm/unity.png'> <!--Unity-->
+<img src='./images/pgm/Cs.png'> <!--C#-->
+<img src='./images/pgm/mySQL.png'> <!--MySQL-->
+<img src='./images/pgm/lua.png'> <!--Lua-->
 
 ### Contatos:
 <div>
@@ -34,5 +34,5 @@ Tenho 20 anos, moro em São Paulo, Brasil. E estou entrendo agora nessa area de 
   <a href='#' target='_blank'><img src='./images/social2/twitter.png'></a>
   <a href = "mailto:joao_guilherme0511@outlook.com"><img src='./images/social2/mail.png'></a>
   <a href='#' target='_blank'><img src='./images/social2/linkedin.png'></a>
-  <a href='https://dev.to/guilhermesclima' target='_blank'><img src='./images/social2/devto.png'></a>
+  <a href='https://dev.to/guilhermesclima' target='_blank'><img src='./images/social2/dev.png'></a>
 </div>
