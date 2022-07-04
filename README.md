@@ -36,3 +36,6 @@ Tenho 20 anos, moro em São Paulo, Brasil. E estou entrendo agora nessa area de 
   <a href='https://www.linkedin.com/in/joão-guilherme-dos-santos-cardoso-lima-44a5881a4/' target='_blank'><img src='./images/social2/linkedin.png'></a>
   <a href='https://dev.to/guilhermesclima' target='_blank'><img src='./images/social2/dev.png'></a>
 </div>
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
